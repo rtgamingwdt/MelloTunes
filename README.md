@@ -1,2 +1,2 @@
 # MelloTunes
- Multipurpose Discord Bot
+> Multipurpose Discord Bot
